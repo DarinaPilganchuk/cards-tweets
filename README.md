@@ -1,5 +1,5 @@
 # Explore, follow and be inspired!
-Description
+## Description 
 A small application that simulates tracking the  tweeters on the planet. Here you can keep up with all the latest updates from your favorite people.
 
 Installation
