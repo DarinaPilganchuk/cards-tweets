@@ -1,7 +1,7 @@
 # Explore, follow and be inspired!
 ## Description 
 A small application that simulates tracking the  tweeters on the planet. Here you can keep up with all the latest updates from your favorite people.
-
+![](https://ibb.co/QkXSJVt)
 ## Installation
 + Clone the repository: git clone https://github.com/DarinaPilganchuk/cards-tweets
 + Navigate to the project directory: cd cards-tweets
