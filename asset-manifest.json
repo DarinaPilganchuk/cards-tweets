@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/DarinaPilganchuk/cards-tweets/static/css/main.bdc7c1fc.css",
+    "main.js": "/DarinaPilganchuk/cards-tweets/static/js/main.fd6c2e38.js",
+    "static/js/222.3e9a04be.chunk.js": "/DarinaPilganchuk/cards-tweets/static/js/222.3e9a04be.chunk.js",
+    "static/js/576.1f47ad55.chunk.js": "/DarinaPilganchuk/cards-tweets/static/js/576.1f47ad55.chunk.js",
+    "static/js/279.2c004ea1.chunk.js": "/DarinaPilganchuk/cards-tweets/static/js/279.2c004ea1.chunk.js",
+    "static/media/logotype.png": "/DarinaPilganchuk/cards-tweets/static/media/logotype.38ea3189a2c780f4bbbf.png",
+    "index.html": "/DarinaPilganchuk/cards-tweets/index.html",
+    "main.bdc7c1fc.css.map": "/DarinaPilganchuk/cards-tweets/static/css/main.bdc7c1fc.css.map",
+    "main.fd6c2e38.js.map": "/DarinaPilganchuk/cards-tweets/static/js/main.fd6c2e38.js.map",
+    "222.3e9a04be.chunk.js.map": "/DarinaPilganchuk/cards-tweets/static/js/222.3e9a04be.chunk.js.map",
+    "576.1f47ad55.chunk.js.map": "/DarinaPilganchuk/cards-tweets/static/js/576.1f47ad55.chunk.js.map",
+    "279.2c004ea1.chunk.js.map": "/DarinaPilganchuk/cards-tweets/static/js/279.2c004ea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.bdc7c1fc.css",
+    "static/js/main.fd6c2e38.js"
   ]
 }
