@@ -20,6 +20,6 @@ License
 This project is licensed under the MIT License.
 
 ## Contact
-+ My name: 
-+ Email: 
-+ Project Link: 
++ My name: Darina Pilganchuk
++ Email: darinapilgancuk@gmail.com
++ Project Link: https://darinapilganchuk.github.io/cards-tweets/
